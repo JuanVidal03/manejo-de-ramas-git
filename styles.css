@@ -50,3 +50,15 @@ header{
     text-decoration: underline;
 }
 /* END HEADER STYLES */
+/* FOOTER STYLES */
+.footer{
+    background-color: #1e1e1e;
+    padding: 1rem 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer p, .footer a{
+    color: #fff;
+}
+/* END FOOTER STYLES */
