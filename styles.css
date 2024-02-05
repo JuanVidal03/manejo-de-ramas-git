@@ -4,3 +4,15 @@
     box-sizing: border-box;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+/* FOOTER STYLES */
+.footer{
+    background-color: #1e1e1e;
+    padding: 1rem 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer p, .footer a{
+    color: #fff;
+}
+/* END FOOTER STYLES */
